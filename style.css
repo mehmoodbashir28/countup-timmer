@@ -1,0 +1,34 @@
+body, html {
+    height: 100%;
+}
+header
+{
+	padding: 35px 0;
+	color: white;
+	display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap !important;
+    align-content: flex-start;
+    background-color: #eaeaea;
+    font-family: 'Merienda', cursive;
+    width: 100%;
+    font-size: 3em;
+
+}
+span
+{
+	background:linear-gradient(to right,#543b57,#425362,#bea177);
+    -webkit-text-fill-color:transparent;
+    -webkit-background-clip:text;
+    font-weight: bold;
+}
+
+div {
+    font-size: 6em;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
